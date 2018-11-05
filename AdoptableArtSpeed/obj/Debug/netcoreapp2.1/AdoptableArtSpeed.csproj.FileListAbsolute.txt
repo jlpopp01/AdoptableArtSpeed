@@ -1,0 +1,11 @@
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\bin\Debug\netcoreapp2.1\AdoptableArtSpeed.deps.json
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\bin\Debug\netcoreapp2.1\AdoptableArtSpeed.runtimeconfig.json
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\bin\Debug\netcoreapp2.1\AdoptableArtSpeed.runtimeconfig.dev.json
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\bin\Debug\netcoreapp2.1\AdoptableArtSpeed.dll
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\bin\Debug\netcoreapp2.1\AdoptableArtSpeed.pdb
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.csprojAssemblyReference.cache
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.AssemblyInfoInputs.cache
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.AssemblyInfo.cs
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.dll
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.pdb
