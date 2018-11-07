@@ -5,23 +5,26 @@ namespace AdoptableArtSpeed
 {
     class Program
     {
+        private static string line;
 
         static void Main(string[] args)
         {
-            string currentDirectory = Directory.GetCurrentDirectory();
-            DirectoryInfo directory = new DirectoryInfo(currentDirectory);
-            string fileName = Path.Combine(directory.Title, "AdoptableArt.csv");
-            var fileContents = ReadFile(fileName);
-            Console.WriteLine(fileContents);
-
-        }
-
-        public static string ReadFile(string fileName)
-        {
-            using (var reader = new StreamReader(fileName))
+            try
             {
-                return reader.ReadToEnd();
+                using (StreamReader sr = new StreamReader("AdoptableArt.csv"))
+                {
+                    while ((line = sr.ReadLine()) != null)
+                        {
+                        Console.WriteLine(line);
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("I lost your data!");
+                Console.WriteLine(e.Message);
             }
         }
+
     }
 }

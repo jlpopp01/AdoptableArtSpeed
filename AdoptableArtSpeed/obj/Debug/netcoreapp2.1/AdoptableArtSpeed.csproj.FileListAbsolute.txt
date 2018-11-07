@@ -9,3 +9,4 @@ C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debu
 C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.AssemblyInfo.cs
 C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.dll
 C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\obj\Debug\netcoreapp2.1\AdoptableArtSpeed.pdb
+C:\Users\Edd.laptop-PC\source\repos\AdoptableArtSpeed\AdoptableArtSpeed\bin\Debug\netcoreapp2.1\AdoptableArt.csv
