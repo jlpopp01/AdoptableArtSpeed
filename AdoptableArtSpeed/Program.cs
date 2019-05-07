@@ -28,3 +28,12 @@ namespace AdoptableArtSpeed
 
     }
 }
+
+
+
+// Import data from CSV
+// Parse data
+// Prompt user for what art they are looking for
+// present adoptable or nonadoptable art
+// bonus : search by cost
+
