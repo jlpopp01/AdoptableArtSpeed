@@ -9,6 +9,7 @@ namespace AdoptableArtSpeed
 
         static void Main(string[] args)
         {
+
             try
             {
                 using (StreamReader sr = new StreamReader("AdoptableArt.csv"))
@@ -21,7 +22,7 @@ namespace AdoptableArtSpeed
             }
             catch (Exception e)
             {
-                Console.WriteLine("I lost your data!");
+                Console.WriteLine("Someone stole all the art!");
                 Console.WriteLine(e.Message);
             }
         }

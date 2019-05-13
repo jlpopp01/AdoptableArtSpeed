@@ -13,8 +13,6 @@
                 //Available - Bool 
                 //Add years if you have time and want another parameter
 
-            // there will come a point where the above is necessary
-            //if you are going to save it in a file on their hard drive ADD IT TO THE DANG README THATS RUDE OTHERWISE
 
 
 			Program Requirements : 
