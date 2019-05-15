@@ -38,7 +38,8 @@ namespace AdoptableArtSpeed
 
 // Import data from CSV
 // Parse data
-// Prompt user for what art they are looking for
-// present adoptable or nonadoptable art
-// bonus : search by cost
+// Welcome person to app, ask their name
+// ask how much they would like to spend on adoptable art
+// all art in CSV is adoptable, set parameters for cost
+// 
 
