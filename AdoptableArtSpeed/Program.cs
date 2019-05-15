@@ -25,7 +25,11 @@ namespace AdoptableArtSpeed
                 Console.WriteLine("Someone stole all the art!");
                 Console.WriteLine(e.Message);
             }
+
+            Console.ReadLine();
         }
+
+      
 
     }
 }
